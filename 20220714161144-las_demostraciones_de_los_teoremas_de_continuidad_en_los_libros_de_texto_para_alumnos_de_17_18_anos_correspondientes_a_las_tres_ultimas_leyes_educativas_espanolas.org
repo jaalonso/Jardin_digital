@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5cf3df53-ded1-46e7-aa31-7f9cc18ef40d
+:ROAM_ALIASES: Conejo+Ortega-14
+:END:
+#+title: Las demostraciones de los teoremas de continuidad en los libros de texto para alumnos de 17-18 años correspondientes a las tres últimas leyes educativas españolas
+#+filetags: :#Bachillerato:#Matemáticas:
+
+En [[https://bit.ly/3O8Hf9w][Las demostraciones de los teoremas de continuidad en los libros de
+texto para alumnos de 17-18 años correspondientes a las tres últimas
+leyes educativas españolas]] se analiza la evolución del tratamiento de la
+demostración matemática en libros de textos. Concretamente, se presenta
+una síntesis sobre los procedimientos para establecer los teoremas de
+Bolzano, Darboux y Weierstrass en los textos de cuatro editoriales. 
+
+Concluyen que, con el paso de las diferentes leyes educativas, ha
+disminuido paulatinamente la presencia de demostraciones rigurosas en
+los libros de texto de Bachillerato: los esquemas de prueba axiomáticos
+y transformacionales se presentan, a veces, incompletos (omitiéndose
+algunos pasos), o son sustituidos por otros esquemas de prueba, como los
+de tipo inductivo.
+
+Los autores son Laura Conejo y Tomás Ortega.

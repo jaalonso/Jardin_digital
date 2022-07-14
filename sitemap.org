@@ -1,0 +1,14 @@
+#+TITLE: Jardín digital
+#+OPTIONS: ^:nil author:nil html-postamble:nil
+
+- [[file:20220714172857-a_mathematician_s_lament.org][A mathematician’s lament]]
+- [[file:20220714141448-analisis_de_las_justificaciones_de_los_teoremas_de_derivabilidad_en_los_libros_de_texto_desde_la_ley_general_de_educacion.org][Análisis de las justificaciones de los teoremas de derivabilidad en los libros de texto desde la Ley General de Educación]]
+- [[file:20220714140337-analisis_historico_de_las_demostraciones_en_libros_de_texto_sobre_los_teoremas_de_limites_y_continuidad.org][Análisis histórico de las demostraciones en libros de texto sobre los teoremas de límites y continuidad]]
+- [[file:20220714180458-apuntes_marea_verde.org][Apuntes Marea Verde]]
+- [[file:20220714165802-el_lamento_de_un_matematico.org][El lamento de un matemático]]
+- [[file:20220714163928-la_demostracion_en_las_matematicas_un_ejemplo_de_aplicacion_en_el_aula_con_alumnos_de_3_º_eso.org][La demostración en las matemáticas. Un ejemplo de aplicación en el aula con alumnos de 3.º ESO]]
+- [[file:20220714132238-la_demostracion_matematica_y_los_libros_de_texto_de_bachillerato.org][La demostración matemática y los libros de texto de Bachillerato]]
+- [[file:20220714161144-las_demostraciones_de_los_teoremas_de_continuidad_en_los_libros_de_texto_para_alumnos_de_17_18_anos_correspondientes_a_las_tres_ultimas_leyes_educativas_espanolas.org][Las demostraciones de los teoremas de continuidad en los libros de texto para alumnos de 17-18 años correspondientes a las tres últimas leyes educativas españolas]]
+- [[file:20220714132910-proof_and_proving_in_mathematics_education_the_19th_icmi_study.org][Proof and proving in mathematics education (The 19th ICMI study)]]
+- [[file:20220714135345-un_analisis_del_tratamiento_de_la_demostracion_matematica_en_los_libros_de_texto_de_bachillerato.org][Un análisis del tratamiento de la demostración matemática en los libros de texto de bachillerato]]
+file:sitemap.svg

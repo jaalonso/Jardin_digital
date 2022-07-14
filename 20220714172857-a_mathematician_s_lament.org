@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       940849ca-ee50-41b9-b49a-e73aa0e25544
+:END:
+#+title: A mathematician’s lament
+#+filetags: :#Enseñanza:#Matemáticas:
+
+El comentario a su versión española está en [[id:097dda02-a6dc-4adc-928e-96d2b35ef673][El lamento de un matemático]].

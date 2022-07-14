@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dc3d07c7-3d57-4af8-be90-858264aedd2c
+:ROAM_ALIASES: "Conejo+Arce+Ortega-15 "
+:END:
+#+title: Análisis de las justificaciones de los teoremas de derivabilidad en los libros de texto desde la Ley General de Educación
+#+filetags: :#Matemáticas:#Bachillerato:
+
+Laura Conejo, Matías Arce y Tomás Ortega en [[https://bit.ly/3O8h82u][Análisis de las
+justificaciones de los teoremas de derivabilidad en los libros de texto
+desde la Ley General de Educación]] presentan un marco teórico
+desarrollado para el análisis de las justificaciones presentadas en los
+libros de texto. Este marco aglutina los conceptos de esquema de prueba,
+prueba preformal, funciones de la demostración y otros aspectos más
+generales de la demostración. Con este marco se analizan las
+justificaciones presentes en los teoremas de Rolle y del Valor Medio en
+seis libros de texto. Se presentan los resultados en forma discusiva, se
+comenta la aplicabilidad y la utilidad del marco teórico. Finalmente, se
+presentan las conclusiones y los problemas abiertos que surgen de esta
+investigación.

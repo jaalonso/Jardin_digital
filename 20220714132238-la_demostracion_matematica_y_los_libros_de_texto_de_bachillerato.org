@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       09b5cae4-9ed9-4696-a663-dbf0caf2003f
+:END:
+#+title: La demostración matemática y los libros de texto de Bachillerato
+#+filetags: :#Bachillerato:#Matemáticas:
+
+En el artículo [[http://funes.uniandes.edu.co/14748/1/Conejo2019La.pdf][La demostración matemática y los libros de texto de
+Bachillerato]] se analiza la evolución de las demostraciones en los libros
+de textos según han ido cambiando las leyes educativas.
+
+En la LOMCE se han incluido diferentes métodos de demostración como la
+reducción al absurdo, el método de inducción, los contraejemplos o los
+razonamientos encadenados. Sin embargo, no se observa este reflejo en
+el tratamiento de los contenidos en los libros de texto.
+
+Las referencias usadas son:
++ [[id:b5093e79-3987-44e6-a262-764d8581ec78][Proof and proving in mathematics education (The 19th ICMI study)]]
++ [[id:bff7808a-1312-4707-b67f-68987f8a2510][Un análisis del tratamiento de la demostración matemática en los libros de texto de bachillerato]].
++ [[id:055f5d25-2e0c-480a-8bbc-a0d9f6d20d66][Análisis histórico de las demostraciones en libros de texto sobre los teoremas de límites y continuidad]]
++ [[id:dc3d07c7-3d57-4af8-be90-858264aedd2c][Análisis de las justificaciones de los teoremas de derivabilidad en los libros de texto desde la Ley General de Educación]]
++ [[id:5cf3df53-ded1-46e7-aa31-7f9cc18ef40d][Las demostraciones de los teoremas de continuidad en los libros de texto para alumnos de 17-18 años correspondientes a las tres últimas leyes educativas españolas]]
++ [[id:536558a7-c306-40b8-87ac-94f50c414060][La demostración en las matemáticas. Un ejemplo de aplicación en el aula con alumnos de 3.º ESO]].
