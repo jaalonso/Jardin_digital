@@ -2,6 +2,7 @@
   (concat "#+TITLE: " title "\n"
           "#+OPTIONS: ^:nil author:nil html-postamble:nil\n\n"
           ;; "#+SETUPFILE: ./simple_inline.theme\n"
+          "#+HTML_HEAD: <link rel=\"stylesheet\" href=\"../estilo-org.css\" type=\"text/css\">"
           (org-list-to-org list)
           "\nfile:sitemap.svg"
           ))
