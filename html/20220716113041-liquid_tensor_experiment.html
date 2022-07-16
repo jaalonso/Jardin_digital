@@ -6,7 +6,7 @@
 <!-- 2022-07-16 sáb 11:53 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Writing a GHC plugin and a preprocessor for the first time</title>
+<title>Liquid Tensor Experiment</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="José A. Alonso" />
 <style type="text/css">
@@ -223,13 +223,32 @@
 </head>
 <body>
 <div id="content">
-<h1 class="title">Writing a GHC plugin and a preprocessor for the first time</h1>
+<h1 class="title">Liquid Tensor Experiment</h1>
 <p>
-En <a href="https://brandonchinn178.github.io/blog/2022/07/11/writing-a-ghc-plugin-and-preprocessor-for-the-first-time.html">Writing a GHC plugin + preprocessor for the first time</a> (de <a href="https://github.com/brandonchinn178">Brandon
-Chinn)</a> se comenta el lanzamiento de la librería <a href="https://github.com/brandonchinn178/tasty-autocollect#readme">tasty-autocollect</a> así
-como algunos de los obstáculos técnicos en la implementación de la
-biblioteca y lo que aprendió en este proceso.
+El principal objetivo del <a href="https://github.com/leanprover-community/lean-liquid">Liquid Tensor Experiment</a> es la formalización
+en Lean del siguiente teorema sobre espacios vectoriales reales
+condensados:
 </p>
+<blockquote>
+<p>
+Sean 0 &lt; 𝑝′ &lt; 𝑝 ≤ 1 números reales, S un <a href="https://es.wikipedia.org/wiki/Grupo_profinito">conjunto profinito</a>, Mₚ(S) el
+<a href="https://en.wikipedia.org/wiki/Measure_space">espacio de p' medidas sobre S</a> y V un p-<a href="https://en.wikipedia.org/wiki/Banach_space">espacio de Banach</a>. Entonces,
+Extⁱ(Mₚ(S),V) = 0, para todo 𝑖 ≥ 1.
+</p>
+</blockquote>
+
+<p>
+Su formalización en Lean es
+</p>
+<div class="org-src-container">
+<pre class="src src-lean"><span style="color: #a020f0;">variables</span> <span style="color: #707183;">(</span>p' p : <span style="color: #008b8b;">&#8477;&#8805;0</span><span style="color: #707183;">)</span> <span style="color: #707183;">[</span>fact <span style="color: #7388d6;">(</span><span style="color: #008b8b;">0</span> <span style="color: #008b8b;">&lt;</span> p'<span style="color: #7388d6;">)</span><span style="color: #707183;">]</span> <span style="color: #707183;">[</span>fact <span style="color: #7388d6;">(</span>p' <span style="color: #008b8b;">&lt;</span> p<span style="color: #7388d6;">)</span><span style="color: #707183;">]</span> <span style="color: #707183;">[</span>fact <span style="color: #7388d6;">(</span>p <span style="color: #008b8b;">&#8804;</span> <span style="color: #008b8b;">1</span><span style="color: #7388d6;">)</span><span style="color: #707183;">]</span>
+
+<span style="color: #a020f0;">theorem</span> <span style="color: #0000ff;">liquid_tensor_experiment</span> 
+  <span style="color: #707183;">(</span>S : Profinite<span style="color: #707183;">)</span> <span style="color: #707183;">(</span>V : pBanach p<span style="color: #707183;">)</span> :
+  <span style="color: #008b8b;">&#8704;</span> i <span style="color: #008b8b;">&gt;</span> <span style="color: #008b8b;">0</span>, Ext i <span style="color: #707183;">(</span>&#8499;_<span style="color: #7388d6;">{</span>p'<span style="color: #7388d6;">}</span> S<span style="color: #707183;">)</span> V <span style="color: #008b8b;">&#8773;</span> <span style="color: #008b8b;">0</span> <span style="color: #008b8b;">:=</span>
+<span style="color: #ff0000; font-weight: bold;">sorry</span>  
+</pre>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Autor: José A. Alonso</p>
